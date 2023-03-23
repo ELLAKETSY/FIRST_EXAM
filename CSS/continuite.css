@@ -1,0 +1,7 @@
+.modal-body ul li p{
+    position: relative;
+}
+
+.modal-body p:hover{
+    color: rgb(243, 114, 243);
+}
